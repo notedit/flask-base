@@ -13,6 +13,7 @@ class TestCase(unittest.TestCase):
         super(TestCase,self).__init__(*args,**kwargs)
 
     def setUp(self):
+        self.client = self.app.test_client()
         print '不写单元测试的人注定一辈子敲代码'
         pass
 
