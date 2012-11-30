@@ -1,0 +1,13 @@
+Flask==0.9
+Flask-Cache==0.6.0
+Flask-Script==0.3.3
+Jinja2==2.6
+SQLAlchemy==0.7.8
+WTForms==1.0.1
+Werkzeug==0.8.3
+colander==0.9.8
+gunicorn==0.15.0
+nose==1.2.1
+requests==0.14.1
+rq==0.3.2
+supervisor==3.0b1
