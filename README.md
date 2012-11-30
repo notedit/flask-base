@@ -2,6 +2,7 @@
 
 a skeleton for flask
 
+author: notedit
 
 ### virtualenv+flask+gunicorn+supervisor环境搭建与部署
 
@@ -53,6 +54,7 @@ nosetest  tests
 #### supervisor
 
 在正常的网站运行中,你需要一些进程管理工具,这里使用supervisor,代码库中已经包含一个 supervisord 的配置文件,你可以添加自己的服务.
+
 
 
 
