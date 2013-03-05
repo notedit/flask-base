@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# author: notedit
+# author: notedit<notedit@gmail.com>
 
 import os
 import sys
